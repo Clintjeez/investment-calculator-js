@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+img{
+    margin-left: 600px;
+}
+input{
+    margin-left: 200px;
+}
+
+.submit input{
+    margin-left: 700px;
+}
+
+select{
+    margin-left: 200px;
+}
+
+.total-amount{
+   margin-left: 300px;
+}
